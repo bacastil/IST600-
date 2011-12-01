@@ -1,5 +1,5 @@
 11/30/11
 Hey team, welcome to SparkleShare! So far everything is looking pretty good and I'm on my first trial run between two clients.
 
-Edited document in Ubuntu_Client1 VM appeared in bacastil VM. Added an mp3 to "test" file sharing capabilities. It was successful but the notifications take a little while to pop up, need to look into that.
+Edited document in Ubuntu_Client1 VM appeared in bacastil VM. Added an mp3 to "test" file sharing capabilities. It was successful but the notifications take a little while to pop up, need to look into that. Document edited in my VM appeared in the client VM, success!!!
 
